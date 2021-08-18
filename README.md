@@ -1,2 +1,2 @@
-# bitplugins
-my bitbar plugins
+# xbarplugs
+my xbar plugins
